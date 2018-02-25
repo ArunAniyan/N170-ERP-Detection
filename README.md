@@ -3,8 +3,11 @@ Wavelet Based N170 ERP detection algorithm for EEG analysis
 
 
 Author : Arun Kumar A
+
 Institute : Department of Physics, St.Thomas College, Kozhencherry, Kerala, India.
+
 Email : aka.bhagya@gmail.com
+
 03-05-2013
 
 
